@@ -17,7 +17,7 @@ Saya Azza Yusron, seorang mahasiswa yang saat ini sedang menempuh pendidikan tin
 - **Tools & Others**: Git, Docker, CI/CD, Agile Methodology
 
 ### 📫 Hubungi Saya
-- 🌐 [LinkedIn](https://linkedin.com/in/azza-yusron)
+- 🌐 [LinkedIn]([https://linkedin.com/in/azza-yusron](https://www.linkedin.com/in/azza-yusronn-4bb077350/))
 - 📧 Email: yusazza2@gmail.com
 - 🔗 [Portfolio](https://azzayusron.com) *(coming soon!)*
 
